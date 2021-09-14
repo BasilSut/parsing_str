@@ -1,0 +1,3 @@
+/home/basil/coding/BasilSut/parsing_str/build/CMakeFiles/rebuild_cache.dir
+/home/basil/coding/BasilSut/parsing_str/build/CMakeFiles/app.dir
+/home/basil/coding/BasilSut/parsing_str/build/CMakeFiles/edit_cache.dir
